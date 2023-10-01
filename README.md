@@ -6,6 +6,5 @@ Appointment Scheduling: Schedule appointments with veterinarians or clinics.
 Pet Health Records: Store and manage your pet's health records and vaccination history.
 Veterinarian Directory: Find and contact veterinarians near your location.
 Clinic Information: Information about clinics, including services offered, opening hours, and contact details.
-User Profiles: Personalized user profiles with avatars and contact information.
+
 Responsive Design: The website is responsive, ensuring a great user experience on various devices.
-Getting Starte
